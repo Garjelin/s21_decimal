@@ -1,3 +1,4 @@
+# s21_decimal
 > [!NOTE]
 > C language
 ## Implementation of the decimal.h library functions
